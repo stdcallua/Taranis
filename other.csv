@@ -1,0 +1,31 @@
+SOUNDS/en;gearup.wav;шасси убрано
+SOUNDS/en;geardn.wav;шасси выпущено
+SOUNDS/en;flapup.wav;закрылки выпущены
+SOUNDS/en;flapdn.wav;закрылки убраны
+SOUNDS/en;flaplnd.wav;закрылки посадочный режим
+SOUNDS/en;flapoff.wav;закрылки взлетный режим
+SOUNDS/en;splrup.wav;интерцепторы выпущены
+SOUNDS/en;splrdn.wav;интерцепторы убраны
+SOUNDS/en;engoff.wav;двигатель выключен
+SOUNDS/en;tohigh.wav;слишком высоко
+SOUNDS/en;tolow.wav;слишком низко
+SOUNDS/en;lowbat.wav;батарея разряжена
+SOUNDS/en;siglow.wav;слабый сигнал
+SOUNDS/en;sigcrt.wav;потеря сигнала
+SOUNDS/en;spdmod.wav;скоростной режим активирован
+SOUNDS/en;thmmod.wav;режим планирования активирован
+SOUNDS/en;nrmmod.wav;обычный режим активирован
+SOUNDS/en;lnding.wav;посадочный режим активирован
+SOUNDS/en;acro.wav;акро режим активирован
+SOUNDS/en;fm-1.wav;первый полётный режим
+SOUNDS/en;fm-2.wav;второй полётный режим
+SOUNDS/en;fm-3.wav;третий полётный режим
+SOUNDS/en;fm-4.wav;четвертый полётный режим
+SOUNDS/en;fm-5.wav;пятый полётный режим
+SOUNDS/en;fm-6.wav;шестой полётный режим
+SOUNDS/en;fm-7.wav;седьмой полётный режим
+SOUNDS/en;fm-8.wav;восьмой полётный режим
+SOUNDS/en;vrion.wav;варио метр включен
+SOUNDS/en;vrioff.wav;варио метр выключен
+SOUNDS/en;breakdn.wav;тормоз выпущен
+SOUNDS/en;breakup.wav;тормоз убран

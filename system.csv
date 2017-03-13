@@ -1,0 +1,195 @@
+SOUNDS/en/SYSTEM;0000.wav;0
+SOUNDS/en/SYSTEM;0001.wav;1
+SOUNDS/en/SYSTEM;0002.wav;2
+SOUNDS/en/SYSTEM;0003.wav;3
+SOUNDS/en/SYSTEM;0004.wav;4
+SOUNDS/en/SYSTEM;0005.wav;5
+SOUNDS/en/SYSTEM;0006.wav;6
+SOUNDS/en/SYSTEM;0007.wav;7
+SOUNDS/en/SYSTEM;0008.wav;8
+SOUNDS/en/SYSTEM;0009.wav;9
+SOUNDS/en/SYSTEM;0010.wav;10
+SOUNDS/en/SYSTEM;0011.wav;11
+SOUNDS/en/SYSTEM;0012.wav;12
+SOUNDS/en/SYSTEM;0013.wav;13
+SOUNDS/en/SYSTEM;0014.wav;14
+SOUNDS/en/SYSTEM;0015.wav;15
+SOUNDS/en/SYSTEM;0016.wav;16
+SOUNDS/en/SYSTEM;0017.wav;17
+SOUNDS/en/SYSTEM;0018.wav;18
+SOUNDS/en/SYSTEM;0019.wav;19
+SOUNDS/en/SYSTEM;0020.wav;20
+SOUNDS/en/SYSTEM;0021.wav;21
+SOUNDS/en/SYSTEM;0022.wav;22
+SOUNDS/en/SYSTEM;0023.wav;23
+SOUNDS/en/SYSTEM;0024.wav;24
+SOUNDS/en/SYSTEM;0025.wav;25
+SOUNDS/en/SYSTEM;0026.wav;26
+SOUNDS/en/SYSTEM;0027.wav;27
+SOUNDS/en/SYSTEM;0028.wav;28
+SOUNDS/en/SYSTEM;0029.wav;29
+SOUNDS/en/SYSTEM;0030.wav;30
+SOUNDS/en/SYSTEM;0031.wav;31
+SOUNDS/en/SYSTEM;0032.wav;32
+SOUNDS/en/SYSTEM;0033.wav;33
+SOUNDS/en/SYSTEM;0034.wav;34
+SOUNDS/en/SYSTEM;0035.wav;35
+SOUNDS/en/SYSTEM;0036.wav;36
+SOUNDS/en/SYSTEM;0037.wav;37
+SOUNDS/en/SYSTEM;0038.wav;38
+SOUNDS/en/SYSTEM;0039.wav;39
+SOUNDS/en/SYSTEM;0040.wav;40
+SOUNDS/en/SYSTEM;0041.wav;41
+SOUNDS/en/SYSTEM;0042.wav;42
+SOUNDS/en/SYSTEM;0043.wav;43
+SOUNDS/en/SYSTEM;0044.wav;44
+SOUNDS/en/SYSTEM;0045.wav;45
+SOUNDS/en/SYSTEM;0046.wav;46
+SOUNDS/en/SYSTEM;0047.wav;47
+SOUNDS/en/SYSTEM;0048.wav;48
+SOUNDS/en/SYSTEM;0049.wav;49
+SOUNDS/en/SYSTEM;0050.wav;50
+SOUNDS/en/SYSTEM;0051.wav;51
+SOUNDS/en/SYSTEM;0052.wav;52
+SOUNDS/en/SYSTEM;0053.wav;53
+SOUNDS/en/SYSTEM;0054.wav;54
+SOUNDS/en/SYSTEM;0055.wav;55
+SOUNDS/en/SYSTEM;0056.wav;56
+SOUNDS/en/SYSTEM;0057.wav;57
+SOUNDS/en/SYSTEM;0058.wav;58
+SOUNDS/en/SYSTEM;0059.wav;59
+SOUNDS/en/SYSTEM;0060.wav;60
+SOUNDS/en/SYSTEM;0061.wav;61
+SOUNDS/en/SYSTEM;0062.wav;62
+SOUNDS/en/SYSTEM;0063.wav;63
+SOUNDS/en/SYSTEM;0064.wav;64
+SOUNDS/en/SYSTEM;0065.wav;65
+SOUNDS/en/SYSTEM;0066.wav;66
+SOUNDS/en/SYSTEM;0067.wav;67
+SOUNDS/en/SYSTEM;0068.wav;68
+SOUNDS/en/SYSTEM;0069.wav;69
+SOUNDS/en/SYSTEM;0070.wav;70
+SOUNDS/en/SYSTEM;0071.wav;71
+SOUNDS/en/SYSTEM;0072.wav;72
+SOUNDS/en/SYSTEM;0073.wav;73
+SOUNDS/en/SYSTEM;0074.wav;74
+SOUNDS/en/SYSTEM;0075.wav;75
+SOUNDS/en/SYSTEM;0076.wav;76
+SOUNDS/en/SYSTEM;0077.wav;77
+SOUNDS/en/SYSTEM;0078.wav;78
+SOUNDS/en/SYSTEM;0079.wav;79
+SOUNDS/en/SYSTEM;0080.wav;80
+SOUNDS/en/SYSTEM;0081.wav;81
+SOUNDS/en/SYSTEM;0082.wav;82
+SOUNDS/en/SYSTEM;0083.wav;83
+SOUNDS/en/SYSTEM;0084.wav;84
+SOUNDS/en/SYSTEM;0085.wav;85
+SOUNDS/en/SYSTEM;0086.wav;86
+SOUNDS/en/SYSTEM;0087.wav;87
+SOUNDS/en/SYSTEM;0088.wav;88
+SOUNDS/en/SYSTEM;0089.wav;89
+SOUNDS/en/SYSTEM;0090.wav;90
+SOUNDS/en/SYSTEM;0091.wav;91
+SOUNDS/en/SYSTEM;0092.wav;92
+SOUNDS/en/SYSTEM;0093.wav;93
+SOUNDS/en/SYSTEM;0094.wav;94
+SOUNDS/en/SYSTEM;0095.wav;95
+SOUNDS/en/SYSTEM;0096.wav;96
+SOUNDS/en/SYSTEM;0097.wav;97
+SOUNDS/en/SYSTEM;0098.wav;98
+SOUNDS/en/SYSTEM;0099.wav;99
+SOUNDS/en/SYSTEM;0100.wav;100
+SOUNDS/en/SYSTEM;0101.wav;200
+SOUNDS/en/SYSTEM;0102.wav;300
+SOUNDS/en/SYSTEM;0103.wav;400
+SOUNDS/en/SYSTEM;0104.wav;500
+SOUNDS/en/SYSTEM;0105.wav;600
+SOUNDS/en/SYSTEM;0106.wav;700
+SOUNDS/en/SYSTEM;0107.wav;800
+SOUNDS/en/SYSTEM;0108.wav;900
+SOUNDS/en/SYSTEM;0109.wav;1000
+SOUNDS/en/SYSTEM;0110.wav;и
+SOUNDS/en/SYSTEM;0111.wav;минус
+SOUNDS/en/SYSTEM;0112.wav;точка
+SOUNDS/en/SYSTEM;volt0.wav;вольт
+SOUNDS/en/SYSTEM;volt1.wav;вольт
+SOUNDS/en/SYSTEM;amp0.wav;ампер
+SOUNDS/en/SYSTEM;amp1.wav;ампер
+SOUNDS/en/SYSTEM;mamp0.wav;миллиампер
+SOUNDS/en/SYSTEM;mamp1.wav;миллиампер
+SOUNDS/en/SYSTEM;knot0.wav;узел
+SOUNDS/en/SYSTEM;knot1.wav;узлов
+SOUNDS/en/SYSTEM;mps0.wav;метр в секунду
+SOUNDS/en/SYSTEM;mps1.wav;метров в секунду
+SOUNDS/en/SYSTEM;fps0.wav;фут в секунду
+SOUNDS/en/SYSTEM;fps1.wav;футов в секунду
+SOUNDS/en/SYSTEM;kph0.wav;километр в час
+SOUNDS/en/SYSTEM;kph1.wav;километров в час
+SOUNDS/en/SYSTEM;mph0.wav;миля в час
+SOUNDS/en/SYSTEM;mph1.wav;миль в час
+SOUNDS/en/SYSTEM;meter0.wav;метр
+SOUNDS/en/SYSTEM;meter1.wav;метров
+SOUNDS/en/SYSTEM;foot0.wav;фут
+SOUNDS/en/SYSTEM;foot1.wav;футов
+SOUNDS/en/SYSTEM;celsius0.wav;градус целсия
+SOUNDS/en/SYSTEM;celsius1.wav;градусов цельсия
+SOUNDS/en/SYSTEM;fahr0.wav;градус по фаренгейту
+SOUNDS/en/SYSTEM;fahr1.wav;градусов по фаренгейту
+SOUNDS/en/SYSTEM;percent0.wav;процент
+SOUNDS/en/SYSTEM;mamph0.wav;миллиамперчас
+SOUNDS/en/SYSTEM;mamph1.wav;миллиамперчас
+SOUNDS/en/SYSTEM;watt0.wav;ватт
+SOUNDS/en/SYSTEM;watt1.wav;ватт
+SOUNDS/en/SYSTEM;mwatt0.wav;миливат
+SOUNDS/en/SYSTEM;mwatt1.wav;миливат
+SOUNDS/en/SYSTEM;db0.wav;децебел
+SOUNDS/en/SYSTEM;db1.wav;децебел
+SOUNDS/en/SYSTEM;rpm0.wav;оборот в минуту
+SOUNDS/en/SYSTEM;rpm1.wav;оборотов в минуту
+SOUNDS/en/SYSTEM;g0.wav;джи
+SOUNDS/en/SYSTEM;g1.wav;джи
+SOUNDS/en/SYSTEM;degree0.wav;градус
+SOUNDS/en/SYSTEM;degree1.wav;градусов
+SOUNDS/en/SYSTEM;rad0.wav;радиан
+SOUNDS/en/SYSTEM;rad1.wav;радианов
+SOUNDS/en/SYSTEM;ml0.wav;миллиметр
+SOUNDS/en/SYSTEM;ml1.wav;миллиметров
+SOUNDS/en/SYSTEM;founce0.wav;fluid ounce
+SOUNDS/en/SYSTEM;founce1.wav;fluid ounces
+SOUNDS/en/SYSTEM;hour0.wav;час
+SOUNDS/en/SYSTEM;hour1.wav;часов
+SOUNDS/en/SYSTEM;minute0.wav;минута
+SOUNDS/en/SYSTEM;minute1.wav;минут
+SOUNDS/en/SYSTEM;second0.wav;секунда
+SOUNDS/en/SYSTEM;second1.wav;секунд
+SOUNDS/en/SYSTEM;0168.wav;точка один
+SOUNDS/en/SYSTEM;0169.wav;точка два
+SOUNDS/en/SYSTEM;0170.wav;точка три
+SOUNDS/en/SYSTEM;0171.wav;точка четыре
+SOUNDS/en/SYSTEM;0172.wav;точка пять
+SOUNDS/en/SYSTEM;0173.wav;точка шесть
+SOUNDS/en/SYSTEM;0174.wav;точка семь
+SOUNDS/en/SYSTEM;0175.wav;точка восемь
+SOUNDS/en/SYSTEM;0176.wav;точка девять
+SOUNDS/en/SYSTEM;midtrim.wav;триммер в центре
+SOUNDS/en/SYSTEM;maxtrim.wav;триммер максимум
+SOUNDS/en/SYSTEM;mintrim.wav;триммер минимум
+SOUNDS/en/SYSTEM;timovr1.wav;таймер 1. время вышло.
+SOUNDS/en/SYSTEM;timovr2.wav;таймер 2. время вышло.
+SOUNDS/en/SYSTEM;timovr3.wav;таймер 3. время вышло.
+SOUNDS/en/SYSTEM;lowbatt.wav;батарея в передатчике разряжена
+SOUNDS/en/SYSTEM;inactiv.wav;мне скучно. потрогай меня. ну пожалуйста.
+SOUNDS/en/SYSTEM;thralert.wav;внимание! газ не в нуле.
+SOUNDS/en/SYSTEM;swalert.wav;переключатели в неправильном положении
+SOUNDS/en/SYSTEM;eebad.wav;ошибка памяти
+SOUNDS/en/SYSTEM;hello.wav;велкам ту опен тэ икс
+SOUNDS/en/SYSTEM;rssi_org.wav;слабый сигнал
+SOUNDS/en/SYSTEM;rssi_red.wav;потеря сигнала
+SOUNDS/en/SYSTEM;swr_red.wav;пульт неисправен
+SOUNDS/en/SYSTEM;telemko.wav;телеметрия потеряна
+SOUNDS/en/SYSTEM;telemok.wav;телеметрия восстановлена
+SOUNDS/en/SYSTEM;trainko.wav;сигнал тренера потерян
+SOUNDS/en/SYSTEM;trainok.wav;сигнал тренера восстановлен
+SOUNDS/en/SYSTEM;sensorko.wav;датчик не работает
+SOUNDS/en/SYSTEM;servoko.wav;серва перегружена
+SOUNDS/en/SYSTEM;rxko.wav;до встречи. 
